@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/marco/AndroidStudioProjects/RetoAndroidDevs2/app/src/main/res/font/roboto.xml" value="0.2708333333333333" />
+        <entry key="..\:/Users/marco/AndroidStudioProjects/RetoAndroidDevs2/app/src/main/res/font/roboto_thin.xml" value="0.13935185185185187" />
+        <entry key="..\:/Users/marco/AndroidStudioProjects/RetoAndroidDevs2/app/src/main/res/layout/fragment_first.xml" value="0.19067028985507245" />
+        <entry key="..\:/Users/marco/AndroidStudioProjects/RetoAndroidDevs2/app/src/main/res/layout/fragment_maps.xml" value="0.1956521739130435" />
+        <entry key="..\:/Users/marco/AndroidStudioProjects/RetoAndroidDevs2/app/src/main/res/layout/layout_item_place.xml" value="0.264" />
+        <entry key="..\:/Users/marco/AndroidStudioProjects/RetoAndroidDevs2/app/src/main/res/layout/layout_no_places.xml" value="0.264" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
